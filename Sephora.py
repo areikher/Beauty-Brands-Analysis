@@ -133,11 +133,31 @@ for i in dfSephora.index:
 
 print(productDict)
 
-print('Mean number of products:', mean(dfSephora['Number of Products']))
-print('Mean number of clean products:', mean(dfSephora['Number of Clean']))
-print('Mean percent of clean products:', mean(dfSephora['Percent Clean']))
-print('Mean of Year Founded:', mean(dfSephora['Year Founded']))
+print('Mean number of products:', round(mean(dfSephora['Number of Products']),2))
+print('Mean number of clean products:', round(mean(dfSephora['Number of Clean']),2))
+print('Mean percent of clean products:', round(mean(dfSephora['Percent Clean']),2))
+print('Mean of Year Founded:', round(mean(dfSephora['Year Founded']),2))
 
+oneOwner = 0
+twoOwners = 0
+threeOwners = 0
+fourOwners = 0
+for i in dfSephora.index:
+	owner = dfSephora['Owner'][i]
+	if 'and' in owner and ',' in owner:
+		commasCnt = owner.count(",")
+		if commasCnt == 2:
+			threeOwners +=1
+		elif commasCnt == 3:
+			fourOwners +=1
+	elif 'and' in owner:
+		twoOwners += 1
+	else:
+		oneOwner += 1
 
-
+print()
+print('Number of 1 owner:', oneOwner)
+print('Number of 2 owners:', twoOwners)
+print('Number of 3 owners:', threeOwners)
+print('Number of 4 owners:', fourOwners)
 
