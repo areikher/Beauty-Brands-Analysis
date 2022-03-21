@@ -161,3 +161,27 @@ print('Number of 2 owners:', twoOwners)
 print('Number of 3 owners:', threeOwners)
 print('Number of 4 owners:', fourOwners)
 
+cleanList = []
+
+for i in dfSephora.index:
+    if dfSephora['Number of Clean'][i] > 0:
+        cleanList.append(True)
+    else:
+        cleanList.append(False)
+
+dfSephora['Clean'] = cleanList
+dfSephora
+
+corrMatrix = dfSephora.corr()
+print(corrMatrix)
+sn.heatmap(corrMatrix, annot=True)
+plt.show()
+
+cntClean = 0
+
+for i in cleanList:
+    if i == True:
+        cntClean +=1
+        
+print(cntClean)
+print(304 - cntClean)
