@@ -1,0 +1,575 @@
+,Brands,Owner,Female,POC,Year Founded,Product Type,Number of Products,Clean Brand
+0,Ace Beauté,Niye Aniekan-Attang,True,True,2015,,11,False
+1,ACURE,Jon and Kristy Guerra,True,False,2010,"Skin Care ,Hair ,Bath & Body",46,True
+2,AG Hair,John and Lotte Davis,True,False,1989,"Hair ,Bath & Body",48,False
+3,Ahava	,Ziva Gilad,True,False,1988,"Bath & Body ,Men ,Gifts ,Skin Care",55,False
+4,Alleyoop,Leila Kashani Manshoory,True,False,2015,"Skin Care ,Bath & Body",4,False
+5,AllSaints,Kait Bolongaro and Stuart Trevor,True,False,1994,,3,False
+6,Almay,Alfred Woititz,False,False,1931,"Makeup ,Skin Care ",13,False
+7,Alpha Skin Care,Michelle Doherty,True,False,1995,"Skin Care ,Bath & Body",8,False
+8,Alterna,Daniel Buchbinder,False,False,1997,"Hair ,Gifts",66,False
+9,American Crew,David Raccuglia,False,False,1994,"Men ,Hair ,Bath & Body ,Skin Care ,Gifts",37,False
+10,Anastasia Beverly Hills,Anastasia Soare,True,False,1997,"Makeup ,Gifts ,Tools & Brushes ,Skin Care",66,False
+11,Andalou Naturals,Stacey Kelly Egide and Mark Egide,True,False,2010,"Skin Care ,Gifts ,Bath & Body",33,False
+12,Aquage,Dennis Lubin and Luis Alvarez,False,False,1998,"Styling Products ,Shampoo & Conditioner ,Travel Size ,Treatment",37,False
+13,Aquaphor,Herman A. Metz,False,False,1925,"Skin Care ,Bath & Body ,Men",4,False
+14,Aquis,Britta Cox,True,False,1990,,5,False
+15,ARCONA,Chanel Jenae,True,False,1989,"Skin Care ,Gifts",17,False
+16,Arctic Fox,Kristen Leanne and Ryan Morgan,True,False,2014,"Hair ,Skin Care ,Fragrance ,Bath & Body",10,False
+17,Ardell,Arnold and Sydell Miller,True,False,1971,"Makeup ,Tools & Brushes, Nails",115,False
+18,Ariana Grande,Ariana Grande,True,False,2015,"Fragrance ,Gifts",15,False
+19,ARMANI,Giorgio Armani and Sergio Galeotti,False,False,1975,"Fragrance ,Men ,Gifts ",32,False
+20,ArtNaturals LUXE,Joseph Nourollah,False,False,2014,"Skin Care ,Bath & Body",21,False
+21,Au Naturale,Ashley Prange,True,False,2011,"Makeup ,Gifts",11,True
+22,Australian Glow,Liz Agresta,True,False,2019,,7,False
+23,Australian Gold,Trevor Gray,False,False,1985,"Skin Care ,Bath & Body",3,True
+24,Aveeno,Albert Musher and Sidney Musher,True,False,1945,"Skin Care ,Bath & Body ,Men ,Makeup",24,False
+25,Avène,Pierre Fabre,False,False,1962,"Skin Care ,Bath & Body ,Makeup ,Gifts",40,False
+26,Awake Beauty,Maureen Kelly,True,False,2018,"Moisturizers ,Treatment & Serums ,Travel Size ,Cleansers ,Eye Treatments",9,False
+27,AXIOLOGY,Ericka Rodriguez,True,True,2013,"Makeup ,Gifts",8,True
+28,Azzaro,Loris Azzaro,False,False,1967,"Fragrance ,Men",9,False
+29,B.Bungalow by Beachwaver Co.,Sarah Potempa,True,False,2010,,2,False
+30,b.tan,Melissa Keclik,True,False,1986,"Skin Care ,Bath & Body",12,False
+31,Babo Botanicals,Kate Solomon,True,False,2008,"Bath & Body ,Hair ,Skin Care ,Makeup",24,False
+32,Baby Foot,James Morris,False,False,1997,"Gifts ,Men",3,False
+33,BaBylissPRO,René Lelièvre,False,False,1961,"Hair ,Tools & Brushes ,Gifts",32,False
+34,BAD HABIT,Emma Chamberlain,True,False,2020,"Skin Care ,Gifts",18,True
+35,Bali Body,Dave and Laura Oosterloo,True,False,2014,,8,False
+36,Banila Co,F&F,False,True,2005,"Skin Care ,Makeup ,Gifts ,Men",26,False
+37,Barefoot Scientist,Dana Ward,True,False,2019,"Bath & Body ,Nails ,Gifts",10,False
+38,bareMinerals,Diane Richardson,True,False,1976,"Makeup, Skin Care, Gifts, Tools & Brushes",91,False
+39,basd,Ashley Meston,True,False,2017,"Bath & Body ,Men ,Gifts",8,True
+40,Batiste,John Dwight,False,False,1975,"Hair ,Gifts",28,False
+41,BAUBLEBAR,Amy Jain and Daniella Yacobovsky,True,True,2010,"Tools & Brushes ,Hair",29,False
+42,Baxter of California,Baxter Finley,False,False,1965,"Men ,Hair ,Skin Care ,Bath & Body ,Fragrance",10,False
+43,Beachwaver Co.,"Sarah Potempa, Erin Potempa-Wall, and Emily Potempa",True,False,2010,"Hair ,Tools & Brushes ,Gifts",11,False
+44,Beast,John Cascarano,False,False,2013,"Men ,Bath & Body ,Skin Care ,Hair ,Gifts ,Fragrance",20,False
+45,Beauty Bakerie,Cashmere Nicole,True,True,2011,"Makeup ,Gifts ,Tools & Brushes ,Skin Care",30,False
+46,Beauty Finds by ULTA Beauty,Jamie O'Banion,True,False,2011,"Gifts ,Hair ,Fragrance",2,False
+47,BeautyBio,Rea Ann Silva,True,False,2003,"Skin Care ,Tools & Brushes ,Hair ,Gifts ,Bath & Body",27,False
+48,beautyblender,Nonie Crème,True,False,2016,"Makeup ,Tools & Brushes ,Gifts",19,False
+49,BeautyGARDE,Ron Robinson,False,True,2019,"Eyelashes ,Lash Primer & Serums ,Eye Makeup Remover",6,False
+50,BeautyStat Cosmetics,Anthony Mascolo,False,False,1996,"Skin Care ,Gifts",7,False
+51,Bed Head,Josh Kilmer-Purcell and Brent Ridge,False,False,2008,"Hair ,Tools & Brushes ,Gifts",65,False
+52,Beekman 1802,LG,False,False,2012,"Skin Care ,Bath & Body ,Makeup ,Tools & Brushes ,Nails ,Hair ,Gifts",35,True
+53,belif,Elliott Evalle,False,False,2021,"Skin Care ,Gifts ,Bath & Body",14,False
+54,Belli,Remo Belli,False,False,2020,"Skin Care ,Bath & Body ,Gifts",8,False
+55,Benefit Cosmetics,Jean and Jane Ford,True,False,1976,"
+Makeup, Gifts, Skin Care, Tools & Brushes",68,False
+56,Better Not Younger,Sonsoles Gonzalez,True,False,2019,"Hair ,Skin Care ,Makeup ,Gifts ,Bath & Body ,Tools & Brushes",20,True
+57,BH Cosmetics,Kirill Trachtenberg,False,False,2009,"Makeup ,Gifts ,Tools & Brushes ,Skin Care",43,True
+58,Bic,Marcel Bich,False,False,1945,"Bath & Body ,Men ,Tools & Brushes ,Makeup",9,False
+59,Bikini Zone,Melissa Gorga,True,False,1996,,3,False
+60,Billie Eilish,Billie Eilish,True,False,2022,"Fragrance ,Gifts",4,False
+61,Billy Jealousy,Pat Parsi,False,False,2004,"Men ,Gifts ,Hair ,Bath & Body ,Skin Care ,Fragrance",32,True
+62,Bio Ionic,Fernando Romero,False,False,1997,"Tools & Brushes ,Hair ,Gifts",8,False
+63,Bio-Oil,Dieter Beier,False,False,1987,"Bath & Body ,Skin Care",3,False
+64,Biobelle,Forty Amsel,True,False,2015,,3,False
+65,bioClarity,David Hale and Cam Garner,True,False,2016,"Skin Care ,Makeup ,Gifts ,Bath & Body",10,False
+66,Biolage,Arnie Miller,False,False,1980,"Hair ,Gifts",59,False
+67,Bioré,Tomiro Nagase,False,True,1997,"Treatment & Serums ,Cleansers",7,False
+68,Biosilk,Farouk Shami,False,True,1986,"Treatment ,Styling Products ,Shampoo & Conditioner ,Travel Size",12,False
+69,Black Girl Sunscreen,Shontay Lundy,True,True,2016,,2,False
+70,Blind Barber,Jeff Laub,False,False,2010,"Men ,Hair",17,False
+71,BLINKING BEAUTÉ,Megan Naik,True,False,2000,,7,False
+72,Bliss,Marcia Kilgore,True,False,1996,"Skin Care ,Bath & Body ,Makeup ,Gifts",31,True
+73,BLK/OPL,Desiree Rogers and Cheryl Mayberry McKissack,True,True,1994,"Makeup ,Skin Care ,Gifts ,Bath & Body",18,False
+74,BLONDME,Tiffany Ward,True,False,2021,"
+Shampoo & Conditioner, Treatment, Styling Products",19,False
+75,BLUME,Taran Ghatrora and Bunnt Ghatrora,True,False,2016,"Skin Care ,Bath & Body",11,False
+76,BOBBI BROWN,Bobbi Brown,True,False,1991,"Makeup ,Skin Care ,Gifts ,Tools & Brushes",33,False
+77,Bondi Boost,Phoebe Simmonds,True,False,2018,"Hair ,Skin Care ,Gifts ,Bath & Body",19,True
+78,Bondi Sands,Shaun Wilson and Blair James,False,False,2012,"Skin Care ,Bath & Body",19,False
+79,boscia,Gen Inomata and Lan Belinky,True,False,2002,"Skin Care, Tools & Brushes, Makeup, Bath & Body, Men",35,False
+80,BosleyMD,L. Lee Bosley,True,False,1974,"Hair ,Skin Care ,Bath & Body ,Men",22,False
+81,Braun,Max Braun,False,False,1921,,2,False
+82,Bravo Sierra,Justin Guilbert and Benjamin Bernet,False,False,2018,"Bath & Body ,Men ,Hair ,Skin Care",16,False
+83,Briogeo,Nancy Twine,True,True,2013,"Hair ,Gifts ,Tools & Brushes ,Bath & Body",65,True
+84,Bumble and bumble,Michael Gordon,False,False,1977,"Hair ,Gifts",105,False
+85,Burberry,Thomas Burberry,False,False,1856,"Fragrance ,Men ,Gifts",17,False
+86,Burt's Bees,Burt Shavitz and Roxanne Quimby,True,False,1984,"Skin Care, Makeup, Gifts, Bath & Body",66,False
+87,Buttah Skin,Dorion Renaud,False,True,2018,"Skin Care ,Bath & Body ,Gifts ,Tools & Brushes",17,False
+88,Buxom,Jill Scalamandre,True,False,2007,"
+Makeup, Gifts, Skin Care",28,False
+89,Cake,Stefan Ytterborn,False,False,2013,"Shampoo & Conditioner , Styling Products , Treatment",15,False
+90,Calvin Klein,Calvin Klein,False,False,1978,"Fragrance ,Men",9,False
+91,CAMILLE ROSE,Janell Stephens,True,True,2011,"Hair ,Gifts",20,False
+92,CANNUKA,Michael Bumgarner,False,False,2018,"Skin Care ,Bath & Body ,Gifts",7,False
+93,Capelli New York,George Altirs,False,False,2011,,2,False
+94,Capri Blue,Castanea Partners,False,False,2012,,1,False
+95,Captain Blankenship,Jana Blankenship,True,False,2009,"Hair ,Gifts",9,True
+96,Carbon Theory.,Philip Taylor,False,False,2018,"Skin Care ,Bath & Body",9,False
+97,Carol's Daughter,Lisa Price,True,True,1993,"Shampoo & Conditioner ,Treatment ,Styling Products",19,False
+98,Carolina Herrera,Antonio Puig,False,False,1980,"Fragrance ,Gifts ,Men",17,False
+99,CeraVe, Tom Allison,False,False,2005,"Skin Care ,Men ,Bath & Body ,Makeup ,Gifts",43,False
+100,CHANEL,Alain and Gerard Wertheimer,False,False,1921,"
+Makeup, Fragrance, Gifts, Men, Skin Care, Nails",101,False
+101,ChapStick,Dr. Charles Browne Fleet,False,False,1890,Makeup,7,False
+102,Chi,Farouk Shami,False,True,1986,"Hair ,Tools & Brushes ,Gifts",73,False
+103,China Glaze,Humberto Leon,False,True,1973,,1,False
+104,Chloé,Gaby Aghion,True,False,1988,"Perfume ,Rollerballs & Purse Sprays",8,False
+105,Clairol,Lawrence M. Gelb,False,False,1931,"Root Touch Up ,Hair Color & Bleach",8,False
+106,Clarins,Jacques Courtin,False,False,1954,"
+Skin Care, Makeup, Bath & Body, Gifts",64,False
+107,Clean,Geoff S. and Deverey Kirk,True,False,1980,"Perfume ,Rollerballs & Purse Sprays",6,True
+108,Clinique,Evelyn Lauder,True,False,1968,"Skin Care, Makeup, Gifts, Men, Bath & Body, Fragrance, Tools & Brushes, Nails",268,False
+109,CND,Stuart Nordstrom and Jan Arnold,True,False,1979,"Nail Care ,Top & Base Coats",7,False
+110,CO. by Colgate,William Colgate,False,False,1806,,7,False
+111,Coco & Eve,Emily Hamilton,True,False,2015,"Bath & Body ,Hair ,Skin Care",14,False
+112,cocokind,Priscilla Tsai,True,True,2015,"Skin Care ,Bath & Body",14,True
+113,Color Oops,Ann and Dave Agrey,True,False,1991,,1,False
+114,Color Wow,Gail Federici,False,False,2013,"Hair Color ,Styling Products",2,False
+115,ColourPop,aura and John Nelson,True,False,2014,"Makeup ,Gifts ,Tools & Brushes ,Skin Care",110,False
+116,Completely Bare,Cindy Barshop,True,False,1998,"Bath & Body ,Skin Care",9,False
+117,Conair,Leandro Rizzuto,False,False,1959,"Tools & Brushes ,Hair ,Bath & Body ,Makeup ,Skin Care ,Gifts ,Men",113,False
+118,COOLA,Chris Birchy,False,False,2007,"Skin Care ,Bath & Body ,Makeup ,Hair",33,False
+119,COSRX,Jun Sang Hun,False,True,2013,"Skin Care ,Gifts",26,False
+120,CoTz,Harry Fallick,False,False,2002,-,5,False
+121,COVER FX,Lee Graff,True,False,2000,"Makeup ,Skin Care ,Gifts",18,False
+122,CoverGirl,Francis J. Townsend,False,False,1961,"Makeup, Skin Care, Gifts",81,False
+123,Crepe Erase, Bill Guthy and Greg Renker,False,False,2014,"Skin Care ,Bath & Body ,Gifts",9,False
+124,Crest,Nick and Cherry Harroz,True,False,1955,Gifts,10,False
+125,Cricket,Wayne Clark,False,False,1982,"Tools & Brushes ,Hair",10,False
+126,Croc,T.J. Park,False,False,2005,"Tools & Brushes ,Hair",6,False
+127,CURLS,Mahisha Dellinger ,True,True,2002,"Styling Products ,Shampoo & Conditioner ,Treatment",13,False
+128,Curlsmith,Michal Berski,False,False,2018,"Hair, Gifts",63,False
+129,Curél,Tomiro Nagase,False,True,1984,"Skin Care ,Makeup ,Gifts",6,False
+130,Céla,Celine Tadrissi,True,False,2016,"Bath & Body ,Gifts ,Fragrance",12,False
+131,Daily Concepts,Emilio Smeke,False,False,2011,"Bath & Body ,Skin Care ,Tools & Brushes ,Gifts ,Makeup",16,False
+132,Dashing Diva,John Chang,False,True,2003,"Nail Polish Stickers ,Nail Care",88,False
+133,DefineMe Fragrance,Jennifer McKay Newton,True,False,2015,"Body Mist & Hair Mist ,Perfume ,Rollerballs & Purse Sprays",12,False
+134,Derma E,Linda Miles and David Stearn,True,False,1984,"Skin Care ,Hair ,Bath & Body ,Makeup ,Men",57,True
+135,Dermablend,Craig Roberts,False,False,1981,"Face ,Body Makeup ,Travel Size",14,False
+136,DERMAFLASH,Dara Levy,True,False,2015,"Tools & Brushes ,Skin Care ,Bath & Body",7,False
+137,Design Essentials,Cornell McBride,False,True,1990,"Styling Products ,Shampoo & Conditioner ,Treatment",18,False
+138,DevaCurl,Lorraine Massey,True,False,1994,"Hair ,Gifts ,Tools & Brushes ,Bath & Body",60,False
+139,DHC,Yoshiaki Yoshida,False,True,1972,"Skin Care ,Makeup ,Tools & Brushes",15,False
+140,Diane,James Simon,False,False,1907,"Tools & Brushes ,Hair",17,False
+141,Differin,Stuart Raetzman,False,False,2016,"Skin Care ,Bath & Body",11,False
+142,Dionis,Kate Crosby,True,False,1982,"Bath & Body ,Gifts ,Skin Care ,Men ,Makeup",45,False
+143,DKNY,Donna Karan,True,False,1984,"Fragrance ,Gifts",3,False
+144,Dolce&Gabbana,Domenico Dolce and Stefano Gabbana,False,False,1990,"Fragrance, Men, Gifts",30,False
+145,Donna Karan,Donna Karan,True,False,1984,"Fragrance ,Gifts ,Bath & Body",6,False
+146,Dotted Zebra,Michael Postle,False,False,2018,-,6,False
+147,dpHUE,Donna Pohlad and Justin Anderson,True,False,2010,"Hair ,Gifts",26,False
+148,Dr Roebuck's,Zoe Roebuck,True,False,2016,"Treatment & Serums ,Cleansers",3,False
+149,Dr. Brandt,Fredric Brandt,False,False,2000,"Skin Care ,Makeup",8,False
+150,Dr. PAWPAW,Johnny Paterson,False,False,2013,"Skin Care ,Makeup ,Bath & Body",5,False
+151,Drunk Elephant,Tiffany Masterson,True,False,2013,"Skin Care ,Bath & Body ,Hair ,Gifts ,Makeup",45,True
+152,Drybar,Alli Webb,True,False,2010,"Hair, Tools & Brushes, Gifts, Bath & Body",81,True
+153,Duke Cannon Supply Co,Anthony Albanese,False,False,2011,"Men ,Fragrance ,Bath & Body ,Gifts ,Skin Care ,Hair",58,False
+154,Dyson,James Dyson,False,False,1991,"Tools & Brushes ,Hair ,Gifts",11,False
+155,e.l.f. Cosmetics,Scott-Vincent Borba and Joseph Shamah,False,False,2004,"Makeup, Tools & Brushes, Skin Care, Gifts, Bath & Body",183,False
+156,Earth Therapeutics,Henry Kang,False,False,2002,"Bath & Body ,Skin Care ,Nails ,Gifts ,Makeup",71,False
+157,Eau de Juice,"Ilias Ermenidis, Clément Gavarry, and Honorine Blanc",True,False,2019,,4,False
+158,EcoTools,Stacey Bingaman and Jenny Ball,True,False,2007,"Tools & Brushes ,Makeup ,Gifts ,Bath & Body ,Skin Care ,Hair",46,True
+159,Eczema Honey,Minesh Patel,False,True,2010,"Bath & Body ,Skin Care",9,False
+160,Elaluz by Camila Coelho,Camila Coelho,True,True,2020,"Makeup ,Skin Care ,Bath & Body",8,False
+161,Elcie Cosmetics,Lilit Caradanian,True,False,2016,"Makeup ,Gifts ,Tools & Brushes ,Skin Care",22,False
+162,ELEMIS,"Noella Gabriel, Oriele Frank, and Sean C. Harrington",True,False,1988,"Skin Care ,Bath & Body ,Men ,Makeup ,Gifts ,Tools & Brushes",55,False
+163,Elizabeth Arden,Elizabeth Arden,True,False,1910,"Skin Care ,Fragrance ,Gifts ,Bath & Body",30,False
+164,Elizabeth Taylor,Elizabeth Taylor,True,False,1991,,1,False
+165,ella+mila,Narineh Bedrossian,True,False,2014,"Nails ,Gifts",21,False
+166,Ellis Brooklyn,Bee Shapiro,True,True,2014,"Fragrance ,Gifts ,Bath & Body",22,True
+167,Eos,Dan Larimer,False,False,2006,"Skin Care ,Bath & Body",7,False
+168,Erborian,Katalin Berenyi and Hojung Lee,True,True,2007,"Skin Care ,Makeup ,Bath & Body",34,False
+169,Ere Perez,Ere and Juan Perez,True,True,2004,"Face ,Lips ,Eyes",9,False
+170,Essence,Christina Oster-Daum,True,True,2005,"Makeup ,Gifts ,Tools & Brushes ,Skin Care",119,False
+171,Essie, Essie Weingarten,True,False,1981,"Nails ,Gifts",36,False
+172,Estée Lauder,Estée Lauder and Joseph Lauder,True,False,1946,"Skin Care, Makeup, Gifts, Fragrance",92,False
+173,Eva Nyc,"Shay, Nir Kadosh, and Vita Raykhman",True,True,2012,"Hair ,Tools & Brushes ,Gifts",35,False
+174,Everpro,Steve Borrebach,False,False,2013,,1,False
+175,Every Man Jack,Ritch Viola,False,False,2007,"Men ,Bath & Body ,Skin Care ,Gifts ,Hair",19,False
+176,Everyday Humans,Charlotte C Pienaar,True,True,2018,"Skin Care ,Bath & Body",4,True
+177,Exa,Greg Papadopoulos,False,False,1991,"Eyes ,Face",4,True
+178,Exuviance,Dr Eugene Van Scott and Dr Ruey Yu,False,True,2014,"Skin Care, Gifts, Makeup",44,False
+179,Eyeko,Nina Leykind,True,False,1999,"Makeup ,Gifts ,Skin Care",21,False
+180,Eylure,David and Eric Aylott,False,False,1947,"Eyelashes ,Eyeliner",54,False
+181,FACE HALO,Lizzy Pike,True,False,2017,"Skin Care ,Makeup ,Tools & Brushes ,Hair ,Gifts ,Bath & Body",6,False
+182,Fairy Tales,Risa Barash,True,False,1999,"Hair ,Gifts ,Tools & Brushes",19,True
+183,Fake Bake,Sandra McClumpha,True,False,2001,,2,False
+184,FEKKAI,Frédéric Fekka,False,False,1996,"Hair ,Gifts ,Bath & Body",42,False
+185,FENTY BEAUTY by Rihanna,Robyn Rihanna Fenty,True,True,2017,"Makeup, Tools & Brushes, Gifts",54,False
+186,Fifth & Root ,Vanessa Florentino,True,False,1993,"Skin Care ,Bath & Body",6,False
+187,Flawless by Finishing Touch,Andy Khubani,False,False,2017,"Bath & Body ,Tools & Brushes ,Skin Care ,Gifts ,Nails",19,False
+188,"
+										Flora & Curl
+								",Rose Ovensehi,True,True,2017,"Shampoo & Conditioner ,Styling Products",7,False
+189,florence by mills,Millie Bobby Brown,True,False,2019,"Skin Care ,Makeup ,Hair ,Gifts ,Tools & Brushes ,Bath & Body",46,False
+190,FLOWER Beauty,Drew Barrymore,True,False,2013,"Makeup ,Gifts ,Skin Care",52,False
+191,"
+										Flowery
+								",Geoff Geils,False,False,1910,"Nails ,Bath & Body",21,False
+192,Foreo,Filip Sedic ,False,False,2013,"Skin Care ,Tools & Brushes",11,True
+193,Formula 10.0.6,Hadley and Peyton Bell,True,False,1933,"Skin Care ,Bath & Body",34,False
+194,Four Reasons Color Mask,Gunnar Didrichsen,False,False,1997,,1,False
+195,FOUR SIGMATIC,Tero Isokauppila and Mikko Revonniemi,False,False,2012,"Supplements ,Sleep Essentials",3,False
+196,Fourth Ray Beauty,Laura and John Nelson,True,False,2018,"Skin Care ,Gifts",26,False
+197,Freeman,Donald S. Freeman,False,False,1927,"Skin Care ,Gifts ,Men",24,False
+198,fresh,Lev Glazman and Alina Roytberg,True,False,1991,"Skin Care ,Bath & Body ,Makeup ,Gifts ,Fragrance",60,False
+199,Fromm,Robert Green,False,False,1904,"Tools & Brushes ,Hair",10,False
+200,Fur,Lillian Tung and Laura Schubert,True,True,2016,"Bath & Body ,Tools & Brushes ,Skin Care",11,True
+201,Ga.Ma Italy Professional,Mario Gardini,False,False,1969,"Skin Care ,Makeup ,Bath & Body ,Gifts",20,False
+202,Garnier,Ann Garnier,True,False,1904,"Tools & Brushes ,Hair ,Gifts",2,False
+203,Ghd,"Robert Powls, Martin Penny, and Gary Douglas",False,False,2001,"Hair ,Tools & Brushes ,Gifts",19,False
+204,Gigi,Gigi Goldman,True,False,2015,"Bath & Body ,Gifts ,Tools & Brushes",21,False
+205,Gillette,King C. Gillette,False,False,1901,"Bath & Body ,Tools & Brushes ,Skin Care ,Men",27,False
+206,GIMME beauty, Mark Durham,False,False,2006,"Tools & Brushes ,Hair",36,False
+207,GLAMGLOW,Shannon Dellimore and Glenn Dellimore,True,False,2010,"Skin Care ,Gifts ,Makeup",31,False
+208,Glamnetic,Ann McFerran,True,True,2019,"Nails ,Makeup",28,False
+209,Go Smile,Rose Wood,True,False,2002,,9,False
+210,Gold 'N Hot,Gerald J Rubin,False,False,1968,"Tools & Brushes ,Hair",3,False
+211,Goli Nutrition,Michael Bitensky,False,False,2019,Gifts,4,False
+212,Got 2b,Robert Reynolds,False,False,2001,"Hair Color ,Styling Products",4,False
+213,Grace Eleyae,Grace Eleyae,True,True,2015,"Bath & Body ,Tools & Brushes ,Hair",3,False
+214,Grande Cosmetics,Alicia Grande,True,False,2008,"Makeup ,Hair ,Gifts ,Skin Care ,Tools & Brushes ,Bath & Body",28,False
+215,Groovi Beauty,Bradley Berkley,False,False,2005,,11,False
+216,Grow Gorgeous,Brandon Truaxe,False,True,2012,"Hair ,Gifts",12,True
+217,Gucci,Guccio Gucci,False,False,1921,"Fragrance ,Men ,Gifts",21,False
+218,Guerlain,Pierre François Pascal Guerlain,False,False,1828,,1,False
+219,HAIRtamin,Leyla Milani Khoshbin,True,True,2016,"Skin Care ,Bath & Body ,Hair ,Gifts",10,False
+220,HALLY,Kathryn Winokur,True,False,2020,"Trend Color, Hair Color & Bleach",1,False
+221,HAN Skincare Cosmetics,Susan Wong,True,True,2015,"Face ,Lips ,Eyes",6,True
+222,Hanskin,Susan Wong,True,True,2016,"Skin Care ,Gifts",17,False
+223,Happy Dance,Kristen Bell,True,False,2017,"Bath & Body ,Skin Care ,Gifts",7,True
+224,Hask,Al Kelekci,False,False,1946,"Shampoo & Conditioner ,Treatment ,Styling Products",35,False
+225,Hello,Craig Dubitsky,False,False,2013,"Bath & Body ,Skin Care",25,True
+226,Hempz,Rick Hough,False,False,1998,"Bath & Body ,Skin Care ,Hair ,Gifts ,Fragrance ,Men",115,False
+227,Heritage Store,Tom Johnson,False,False,1969,"Skin Care ,Bath & Body",13,True
+228,Hero Cosmetics,Ju Rhyu,True,True,2012,"Skin Care ,Bath & Body",9,False
+229,Hey Honey,Katerina Yoffe Larden,True,True,2011,"Skin Care ,Makeup ,Bath & Body",16,True
+230,Holika Holika,Lee Byung-chul,False,True,2010,"Makeup ,Skin Care ,Gifts ,Bath & Body",29,False
+231,Hollywood Fashion Secrets,Jane Dailey,True,True,2001,"Bath & Body ,ULTA Collection",19,False
+232,Homebody,Rebecca Grammer-Ybarra,True,False,2020,"Bath & Body ,Gifts",19,False
+233,HomeWorx,Harry Slatkin,False,False,2016,,7,False
+234,Honest Beauty,"	Jessica Alba, Brian Lee, Sean Kane, and Christopher Gavigan",True,True,2011,"Skin Care ,Makeup ,Gifts ,Tools & Brushes ,Nails",50,True
+235,HOURGLASS,Carisa Janes,True,False,2004,"Makeup, Tools & Brushes, Gifts,Skin Care",81,False
+236,House of Lashes,Jenn Chiba,True,True,2021,,7,False
+237,Hugo Boss,Hugo Boss,False,False,1924,,6,False
+238,Hustle Butter,Richie Bulldog,False,False,2012,"Bath & Body ,Men ,Gifts",5,False
+239,Hynt Beauty,Meryl and Craig Marshall,True,False,2014,"Makeup ,Skin Care ,Gifts",9,True
+240,I Dew Care,Dino Ha,False,True,2019,"Skin Care ,Tools & Brushes ,Hair ,Gifts ,Makeup ,Bath & Body",20,True
+241,I Heart Revolution,Adam Minto and Tom Allsworth,False,False,2015,"Makeup ,Gifts ,Skin Care ,Tools & Brushes",64,False
+242,ICONIC LONDON,Jade Elliott,True,True,2015,"Makeup ,Gifts ,Skin Care",12,False
+243,iDesign,Sarah Tanno,True,False,2022,"Makeup ,Tools & Brushes ,Hair",14,False
+244,IGK,"Franck Izquierdo, Chase Kusero, Aaron Grenia and Leo Izquierdo",False,False,2016,"Hair, Gifts",38,False
+245,ILLUME,Lynette Reed,True,False,1994,,3,False
+246,Impressions Vanity,Kevin Choi,False,True,2014,,2,False
+247,Indeed Labs,Brandon Truax,False,False,2013,"Skin Care ,Makeup ,Bath & Body",25,False
+248,INDIE LEE,Suee Wagners,True,False,2013,"Skin Care ,Gifts",18,True
+249,Innersense Organic Beauty,Greg and Joanne Starkman,True,False,2005,"Hair ,Gifts",24,True
+250,INSERT NAME HERE,Sharon Pak and Jordynn Wynn,True,False,2018,"Hair ,Tools & Brushes ,Gifts",8,False
+251,InStyler,Linda Flowers,True,False,2008,"Tools & Brushes ,Hair ,Gifts",7,False
+252,Invisibobble,Sophie Trelles-Tvede,True,False,2012,"Tools & Brushes ,Hair",65,False
+253,IT Brushes For ULTA,Jamie Kern Lima,True,False,2014,"Tools & Brushes, Makeup, Gifts",49,False
+254,It Cosmetics,Jamie Kern Lima and Paulo Lima,True,False,2008,"Makeup, Skin Care, Gifts, Tools & Brushes",68,False
+255,It's A 10,Carolyn Aronson,True,False,2006,"Hair ,Gifts",52,False
+256,J.Cat Beauty,Victor Chang,False,True,2013,"Makeup ,Tools & Brushes ,Gifts ,Skin Care",90,False
+257,J.R. Watkins,J. R. Watkins,False,False,1868,"Bath & Body ,Fragrance",11,True
+258,Jack Black,"Curran Dandurand, Emily Dalton and Jeff Dandurand",True,False,2000,"Men ,Skin Care ,Bath & Body ,Hair ,Gifts ,Fragrance ,Makeup",42,False
+259,Jaclyn Cosmetics,Jaclyn Roxanne Hill,True,False,2014,"Makeup ,Skin Care ,Gifts",20,False
+260,Jean Paul Gaultier,Jean Paul Gaultier,False,False,1982,Gifts,3,False
+261,Jergens,Andrew N. Jergens Sr. and Charles Geilfus,False,False,1882,,1,False
+262,Jimmy Choo,Jimmy Choo and Tamara Mellon,True,False,1996,"Fragrance ,Men ,Gifts",12,False
+263,John Varvatos,John Varvatos,False,False,1999,Gifts,5,False
+264,Joico,Steve Stefano,False,True,1975,"Shampoo & Conditioner ,Styling Products ,Travel Size ,Treatment",79,True
+265,Josh Rosebrook,Philippe Kahn,False,False,2008,"Moisturizers ,Cleansers ,Treatment & Serums",12,True
+266,Juice Beauty,Karen Behnke,True,False,2000,"Skin Care, Makeup, Gifts, Bath & Body",48,True
+267,Juicy Couture,Josie Maran,True,False,2007,"Fragrance ,Gifts",17,False
+268,Juvia's Place,Chichi Eburu,True,True,2016,"Makeup ,Gifts",58,False
+269,Kate Somerville,Gela Nash and Pamela Skaist,True,False,1997,"
+Skin Care, Bath & Body, Makeup, Gifts",36,False
+270,Kate Spade New York,"
+										Kate Spade
+								",True,False,1993,"Fragrance ,Gifts",4,False
+271,Kenneth Cole New York,	Kenneth Cole (and Sam Edelman,False,False,1982,,1,False
+272,Kenra Professional,Henry Meyers,False,False,1920,"Hair, Gifts",100,False
+273,Keracolor,Jerry Wallis,False,False,2018,"Shampoo & Conditioner ,Hair Color",7,True
+274,Keranique,Tom Shipley,False,False,2014,"Hair ,Gifts",27,False
+275,Kestrel,Monica Reid,False,False,1981,,3,False
+276,Keys Soulcare,Alicia Keys,True,True,2021,"Skin Care ,Gifts ,Bath & Body ,Tools & Brushes ,Fragrance",27,True
+277,Kiehl's Since 1851,John Kiehl,False,False,1851,"Skin Care, Men, Bath & Body, Gifts, Hair, Fragrance",98,False
+278,KIKO Milano,Antonio Percassi,False,False,1997,"Makeup ,Skin Care ,Gifts",61,False
+279,Kinship,Christn Powell and Alison Haljun ,True,False,2019,"Skin Care ,Gifts ,Makeup ,Bath & Body",16,True
+280,Kitsch,Cassandra Thurswell,True,False,2010,"Hair ,Tools & Brushes ,Bath & Body ,Gifts ,Skin Care",135,True
+281,Klairs,Ryan Soungho Park,True,True,2009,"Global Skin Care ,Cleansers ,Treatment & Serums ,Moisturizers",6,False
+282,Klorane,Pierre Fabre,False,False,1966,"Hair ,Gifts",30,False
+283,Kneipp,Sebastian Kneipp,False,False,1891,"Bath & Body ,Gifts ,Skin Care ,Men",40,True
+284,Kopari Beauty,Kiana Cabell and Gigi Goldman,True,False,2015,"Bath & Body ,Skin Care ,Gifts ,Makeup ,Fragrance",42,True
+285,Kreyòl Essence,Yve-Car Momperousse,True,True,2010,"Hair ,Skin Care ,Bath & Body",27,False
+286,KRISTIN ESS HAIR,Kristin Ess,True,False,2008,"Hair ,Tools & Brushes ,Gifts",53,False
+287,KVD Beauty,Kat Von D,True,False,2008,"Makeup, Gifts, Tools & Brushes",37,False
+288,KYLIE COSMETICS,Kylie Jenner,True,False,2014,"Makeup ,Gifts ,Tools & Brushes",22,False
+289,KYLIE SKIN,Kylie Jenner,True,False,2019,"Skin Care ,Gifts ,Tools & Brushes ,Makeup ,Bath & Body",23,False
+290,L'ange,Dalia Lange,True,False,2017,"Hair ,Tools & Brushes ,Gifts",24,False
+291,L'anza,David Berglass,False,False,2002,"Shampoo & Conditioner ,Treatment ,Styling Products ,Gifts & Value Sets",41,False
+292,L'Occitane,Olivier Baussan,False,False,1976,"Skin Care ,Bath & Body ,Gifts ,Nails ,Makeup",25,False
+293,L'Oréal,Eugène Schueller,False,False,1909,"Makeup, Hair, Skin Care, Gifts, Tools & Brushes, Bath & Body",166,False
+294,L'Oréal Professionnel,Eugène Schueller,False,False,1910,,1,False
+295,L.A. Girl,Amy Tan,True,True,1985,"Makeup ,Gifts ,Skin Care ,Tools & Brushes",67,False
+296,La Roche-Posay,René Levayer,True,False,1994,"Skin Care ,Bath & Body ,Men ,Makeup ,Gifts",46,False
+297,Lake & Skye,Courtney Somer,True,False,2015,"Fragrance ,Gifts",8,False
+298,Lancôme,Armand Petitjean,False,False,1935,"Makeup, Skin Care, Gifts, Fragrance, Tools & Brushes, Bath & Body",131,False
+299,Lano,Kirsten Carriol,True,False,2018,"Skin Care ,Bath & Body ,Makeup ,Gifts ,Nails",33,True
+300,LashFood,Faith Kim,True,True,2007,"Makeup ,Skin Care ,Gifts",5,False
+301,Laura Mercier,Laura Mercier,True,False,1996,"Gifts, Skin Care, Tools & Brushes",31,False
+302,LAVANILA,Danielle Raynor,True,False,2006,,3,False
+303,Le Mini Macaron,Christina Koa and François-Xavier Humbert,True,True,2015,"Nails ,Gifts ,Bath & Body",25,False
+304,Leandro Limited,Leandro Rizzuto,False,False,1959,,3,False
+305,Lilly Lashes,Lilly Ghalich,True,True,2013,"Makeup ,Tools & Brushes",22,False
+306,Lime Crime,Doe Deere,True,False,2008,"Makeup ,Gifts ,Hair ,Tools & Brushes ,Skin Care",38,False
+307,Lip Smacker,Jesse Bell,True,False,1973,"Skin Care ,Makeup ,Gifts",3,False
+308,Live Tinted,Deepica Mutyala,True,True,2017,"Makeup ,Skin Care ,Bath & Body",7,True
+309,Living Proof,Jon Flint and Robert Langer,False,False,2005,"Hair, Gifts",69,False
+310,Locks & Mane,Jennifer Parrott,True,False,2015,"Hair ,Tools & Brushes",9,False
+311,LOLI Beauty,Tina Hedges,True,False,2014,"Skin Care ,Bath & Body ,Gifts ,Makeup",16,False
+312,LOOPS,Tom Szaky,False,False,2001,"Skin Care ,Gifts",11,False
+313,LORAC,Carol Shaw,True,False,1995,"Makeup, Gifts, Skin Care, Bath & Body",33,False
+314,Lottie London,Charlotte Knight,True,False,2014,"Makeup ,Gifts ,Tools & Brushes ,Skin Care",18,False
+315,Love Wellness,Lo Bosworth,True,False,2019,"Bath & Body ,Skin Care ,Gifts",22,True
+316,Loving Tan,Jo Hinton,True,False,2011,"Skin Care ,Bath & Body",9,False
+317,LUV SCRUB,Caroline Owusu-Ansah,True,True,2001,,5,False
+318,M. Skin Care,Jakob Mohr,False,False,2020,"Moisturizers ,Cleansers",2,False
+319,MAC,Frank Toskan and Frank Angelo,False,False,1984,"Makeup, Gifts, Tools & Brushes, Skin Care",115,False
+320,Mad Hippie,Dana and Sam Stewart,True,False,2016,"Skin Care ,Bath & Body ,Gifts",21,True
+321,Madison Reed,Amy Errett,True,False,2013,"Hair ,Men ,Bath & Body",14,False
+322,MAHLI,Bec Sheehan,True,True,2016,,1,False
+323,Makeup Revolution,Adam Minto and Tom Allsworth ,False,False,2013,"Makeup, Gifts, Skin Care, Tools & Brushes, Bath & Body",166,False
+324,Manic Panic,Tish Bellomo and Snooky Bellomo,True,False,1977,"Hair Color ,Shampoo & Conditioner",7,False
+325,MANNA KADAR BEAUTY,Manna Kadar,True,True,2012,"Skin Care ,Bath & Body ,Gifts",10,False
+326,Marc Anthony,Marc Anthony Venere,False,False,1996,"Shampoo & Conditioner ,Styling Products ,Treatment",16,False
+327,Marc Jacobs,Robert Duffy,False,False,1984,"Fragrance ,Gifts",18,False
+328,Mario Badescu,Mario Badescu,False,False,1967,"Skin Care ,Gifts ,Makeup ,Bath & Body",95,False
+329,Matrix,Arnie Miller,False,False,1980,"Shampoo, Conditioner, Leave-In Conditioner, Co-Wash, Dry Shampoo",26,False
+330,Maui Babe,Christina Park,True,False,1996,"Skin Care ,Bath & Body",5,False
+331,Maui Moisture,Todd Christopher,False,False,2016,"Shampoo & Conditioner ,Styling Products ,Treatment",14,False
+332,Maybelline,Thomas Lyle Williams,False,False,1914,"Makeup, Gifts, Tools & Brushes, Skin Care",121,False
+333,MAËLYS Cosmetics,Yariv Citron and Daniel De Castro,False,False,2017,,3,False
+334,Meaningful Beauty,Jean-Louis Sebagh,False,False,2004,"Skin Care ,Gifts ,Makeup ,Bath & Body",13,False
+335,megababe,Katie Sturino,True,False,2017,"Bath & Body ,Skin Care ,Men ,Gifts",30,False
+336,MegRhythm,Michitaka Sawada,False,True,2017,,1,False
+337,Melanin Haircare,Whitney White and Taffeta White,True,True,2015,"Hair ,Gifts",5,True
+338,MELÉ,Esi Eggleston-Bracey and Sarah Irby,True,True,2018,"Treatment & Serums ,Moisturizers ,Cleansers",6,False
+339,Merci Handy,Roland Jais-Nielsen and Marty Louis,False,False,2012,"Hand & Foot Care ,Self Care & Wellness",7,False
+340,Miamica,Devra Miller,True,False,2000,"Hair ,Skin Care ,Bath & Body ,Makeup ,Tools & Brushes",17,False
+341,Michael Kors,Michael Kors,False,False,1981,"Fragrance ,Gifts",15,False
+342,Michael Todd Beauty,Lewis Hendler,False,False,2008,"Tools & Brushes ,Skin Care ,Bath & Body ,Nails",20,False
+343,Mielle Organics,Monique Rodriquez,True,True,2020,"Shampoo & Conditioner ,Treatment ,Styling Products",8,False
+344,Milani,Laurie Minc,True,False,2001,"Makeup ,Skin Care ,Gifts ,Tools & Brushes",85,False
+345,Milk + Honey,Alissa Bayer,True,True,2014,"Bath & Body ,Men ,Skin Care ,Gifts ,Fragrance",28,True
+346,Miss Spa,Kate Kimmerle,True,False,2012,"Skin Care ,Gifts ,Bath & Body",55,True
+347,Mixed Chicks,Kim Etheredge and Wendi Levy Kaaya,True,True,2004,"Shampoo & Conditioner ,Styling Products ,Treatment",10,True
+348,MONDAY Haircare,Jaimee Lupton,True,False,2021,"Conditioner ,Shampoo",10,False
+349,Moon,Kenneth Kruger,False,False,2018,"Bath & Body ,Gifts",18,False
+350,Morgan Taylor,Danny Haile,True,True,2007,"Nail Polish ,Top & Base Coats",4,False
+351,Morphe,	Chris Tawli and Linda Tawli,True,False,2008,"Makeup, Tools & Brushes, Gifts, Skin Care, Bath & Body",183,False
+352,Moschino,Franco Moschino,False,False,1983,"Fragrance ,Men",5,False
+353,MUGLER,Thierry Mugler,False,False,1973,"Perfume ,Rollerballs & Purse Sprays",14,False
+354,Murad,Howard Murad,False,True,1989,"Skin Care, Gifts, Men, Bath & Body",58,False
+355,My Clarins,Jacques Courtin-Clarins,False,False,1954,"Skin Care ,Gifts ,Makeup",13,False
+356,MyChelle,Myra Michelle Eby,True,False,2000,,1,True
+357,Mydentity,Guy Tang,False,False,2017,"Styling Products ,Shampoo & Conditioner ,Hair Color",7,False
+358,NABLA,Alexandre Lebrun and Surge Biswas,False,False,2020,"Makeup ,Gifts",21,False
+359,Nads Natural,Sue Ismiel,True,False,1992,"Bath & Body ,Gifts",13,False
+360,Nail Tek,Thi Hoang,False,True,2008,"Nails ,Bath & Body",7,False
+361,Nailtopia,Amy Nguyen,True,True,2017,"Nails ,Gifts",31,True
+362,Nair,"
+Benjamin Nair",False,False,1972,"Body Moisturizers ,Bath & Shower",12,True
+363,NARS,François Nars,False,False,1994,"Makeup ,Gifts ,Skin Care",43,False
+364,Naturalicious,Gwen Jimmere,True,True,2013,"Hair ,Gifts",11,True
+365,Nemat,Mike Nemat,False,False,1994,"Fragrance ,Gifts",4,True
+366,NEST Fragrances,Laura Slatkin,True,False,2008,"Fragrance ,Gifts ,Bath & Body",14,False
+367,Neutrogena,Emanuel Stolaroff,False,False,1930,"Skin Care ,Bath & Body ,Makeup ,Tools & Brushes",94,False
+368,Nexxus,Jheri Redding,False,False,1979,"Shampoo & Conditioner ,Treatment ,Styling Products",20,False
+369,Nioxin,Eva Graham,True,False,1987,"Hair, Men, Gifts",50,False
+370,Nivea,Oscar Troplowitz,False,False,1911,"Bath & Body ,Skin Care ,Men",13,False
+371,No7,"
+Florence Boot",True,False,1935,"Skin Care, Gifts, Makeup, Nails, Bath & Body",46,False
+372,Not Your Mother's,Bethany Pagliarulo,True,False,2010,"Hair, Gifts",78,False
+373,Noughty,Rachel Parsonage and Lorna Mitchell,True,False,2016,"Shampoo & Conditioner ,Treatment ,Styling Products",27,False
+374,noyah,Joshua Gordon,False,False,2014,"Skin Care ,Gifts",2,False
+375,Nude Sugar,Toni Braxton,True,True,2021,"Bath & Body ,Skin Care ,Fragrance",9,False
+376,NUDESTIX,Jenny Frankel and Taylor Frankel,True,False,2013,"Makeup ,Skin Care ,Gifts",38,True
+377,Nurse Jamie,Jamie Sue Sherrill,True,False,2008,"Skin Care ,Tools & Brushes ,Bath & Body",7,False
+378,NYX Professional Makeup,Toni Ko,True,True,1999,"Makeup, Gifts, Tools & Brushes, Skin Care",144,False
+379,N°1 DE CHANEL,Olivier Polge,True,False,2022,"Skin Care ,Makeup ,Gifts ,Bath & Body",9,True
+380,Ofra Cosmetics,Ofra and David Gaito,True,False,1994,"Makeup ,Gifts ,Skin Care ,Tools & Brushes",45,False
+381,OGX,Todd Christopher,False,False,1984,"Shampoo & Conditioner, Styling Products, Treatment",45,False
+382,Oh K!,Kim Chi,True,True,2015,"Skin Care ,Bath & Body",16,False
+383,OLAPLEX,Dr. Eric Pressly and Dr. Craig Hawker,False,False,2014,"Hair ,Gifts",8,False
+384,Olay,Graham Wulff,False,False,1952,"Skin Care ,Bath & Body ,Tools & Brushes",29,False
+385,Olivia Garden,Jean & Micheline Rennette,True,False,1967,,43,False
+386,One Love Organics,Suzanne LeRoux,True,False,2010,"Skin Care ,Tools & Brushes ,Bath & Body",16,True
+387,OPI,George Schaeffer,False,False,1981,"Nails, Gifts, Bath & Body",54,False
+388,ORA,Will Smelko and Ronald Chang,False,False,2002,,2,False
+389,Oral-B,Robert W. Hutson,False,False,1950,Gifts,3,False
+390,Origins,Leonard Lauder,False,False,1990,"Skin Care, Gifts, Makeup, Bath & Body",50,True
+391,Orly,Jeff Pink,False,False,1975,"Nails ,Gifts",18,False
+392,OSEA,Jenefer Palmer,True,False,1982,"Skin Care ,Gifts ,Bath & Body ,Makeup",13,True
+393,Ouidad,Ouidad and Peter Wise,True,True,1983,"Hair ,Tools & Brushes ,Gifts",77,False
+394,Pacifica,Brook Harvey-Taylor and Billy Taylor,True,False,1996,"Skin Care ,Bath & Body ,Makeup ,Fragrance ,Gifts ,Hair ,Nails ,Tools & Brushes",226,True
+395,Paco Rabanne,Paco Rabanne,False,False,1966,"Fragrance ,Men ,Gifts",11,False
+396,Parissa,Azar Moayeri,True,True,1983,"Bath & Body ,Tools & Brushes ,Skin Care",15,True
+397,Patchology,Chris Hobson,False,False,2006,"Skin Care ,Gifts ,Bath & Body",40,False
+398,PATTERN,Dave Wright and Melanie Alder,False,False,2013,"Hair, Tools & Brushes, Gifts, Bath & Body",50,False
+399,Paul Mitchell,John Paul DeJoria and Paul Mitchell,False,False,1980,"Hair, Gifts, Men, Tools & Brushes, Bath & Body, Fragrance",159,False
+400,PEACH & LILY,Alicia Yoon,True,True,2012,"Skin Care ,Gifts ,Makeup ,Bath & Body",24,False
+401,Peach Slices,Alicia Yoon,True,True,2012,"Skin Care ,Gifts",13,True
+402,Persona,Rick Song and Charles Yeh,False,True,2015,"Makeup ,Gifts ,Tools & Brushes",16,False
+403,Peter Thomas Roth,Peter Thomas Roth,False,False,1993,"Skin Care, Gifts, Men, Makeup, Bath & Body",59,False
+404,Petite n Pretty,Samantha Cutler,True,False,2018,"Makeup ,Gifts ,Tools & Brushes ,Skin Care ,Hair ,Fragrance",31,False
+405,Philosophy,Cristina Carlino,True,False,1996,"Skin Care, Fragrance, Bath & Body, Gifts, Hair, Nails, Makeup",106,False
+406,Physicians Formula,Frank Crandall,False,False,1937,"Makeup ,Gifts ,Skin Care",25,True
+407,Pipette,Alex Spector,False,False,1996,"Bath & Body ,Skin Care ,Hair ,Gifts",25,True
+408,Pirette,Griffin Coon,False,False,2014,"Fragrance ,Bath & Body ,Gifts ,Hair",9,False
+409,PMD,Philippe d'Offay,False,False,1998,"Skin Care ,Tools & Brushes ,Bath & Body ,Men ,Makeup",29,False
+410,Polder,Jennifer Hofmeijer,True,False,2016,,1,False
+411,Poo~Pourri,Suzy Batiz,True,False,2007,"Self Care & Wellness ,Bath & Body Accessories ,Travel Size",5,True
+412,Prada,Mario Prada,False,False,1913,"Fragrance ,Men",12,False
+413,Pravana,Steve Goddard,False,False,2004,"Shampoo & Conditioner ,Travel Size ,Treatment",22,False
+414,Proactiv,Katie Rodan and Kathy Fields,True,False,1995,"Skin Care ,Men ,Gifts ,Bath & Body",23,False
+415,Punky Colour,Jerome Russell,False,False,1992,"Hair Color ,Shampoo & Conditioner",6,False
+416,Pura d'or,Bruno Lima and Richie Stapler,False,False,2011,"Hair ,Men",13,False
+417,Pureology,Jim Markham,False,False,2001,"Hair, Gifts",57,False
+418,pursoma,Shannon Vaughn,True,False,2014,"Bath & Shower ,Body Moisturizers",7,False
+419,PYT Beauty,Amy Carr and Mary Schulman,True,False,2018,"Makeup ,Gifts",19,True
+420,PÜR,Jay Klein,False,False,2010,"Makeup, Skin Care, Gifts, Tools & Brushes",54,True
+421,Qhemet Biologics,Felis Butler,True,True,2004,"Shampoo & Conditioner ,Treatment ,Styling Products",8,False
+422,Ralph Lauren,Ralph Lauren,False,False,1967,"Fragrance ,Men ,Gifts",16,False
+423,RapidHair,Rob Trow,False,False,2014,,1,False
+424,Rapidlash,Rob Trow,False,False,2008,"Lash Primer & Serums ,Eyebrows ,Mascara",4,False
+425,Real Techniques,Samantha Chapman and Nicola Haste,True,False,2011,"Tools & Brushes ,Makeup ,Gifts ,Skin Care",54,True
+426,Rebels Refinery,Eric Fallon,False,False,2012,,4,False
+427,Redken,Jheri Redding,False,False,1960,"
+Hair, Men, Gifts",141,False
+428,Remington,Eliphalet Remington,False,False,1816,"Tools & Brushes ,Bath & Body ,Men ,Hair ,Gifts",9,False
+429,Revlon,Charles Revson,False,False,1932,"Makeup, Tools & Brushes, Bath & Body, Nails, Hair, Gifts, Skin Care, Men",100,False
+430,Revolution PRO,Andy Quildan,False,False,2012,"Makeup ,Gifts",9,False
+431,Riki Loves Riki,Wanchen and Erik Kaiser,False,False,2020,,4,False
+432,RITUALS,Raymond Cloosterman,False,False,2000,"Bath & Body ,Gifts ,Fragrance",25,False
+433,Rituel de Fille,"Katherine, Caroline, and Michelle Ramos",True,False,2014,"Makeup ,Skin Care",5,True
+434,Rizos Curls,Julissa Prado,True,True,2017,"Hair ,Tools & Brushes ,Gifts",12,True
+435,Rosebud Perfume Co.,George F. Smith ,False,False,1895,"Skin Care ,Gifts",8,False
+436,ROSEN,Harris Rosen,False,False,1974,"Treatment & Serums ,Cleansers ,Moisturizers",5,False
+437,Rusk,Irvine and Louise Rusk,True,False,1993,"Shampoo & Conditioner ,Treatment ,Styling Products",15,False
+438,Sacheu,Sarah Cheung,True,True,2020,"Skin Care ,Tools & Brushes ,Gifts",4,False
+439,Sagely Naturals,Kerrigan Behrens and Kaley Nichol,True,False,2015,"Self Care & Wellness ,Body Moisturizers",6,False
+440,Sally Hansen,Sally Hansen,True,False,1946,"Nails, Bath & Body, Gifts, Hair",80,False
+441,SAND & SKY,Sarah Hamilton and Stephanie Michel,True,False,2017,"Skin Care ,Bath & Body",8,False
+442,Sara Happ,Sara Happ,True,False,2005,"Skin Care ,Makeup ,Gifts",10,False
+443,Schick,Jacob Schick,False,False,1926,"Bath & Body ,Tools & Brushes ,Men",12,False
+444,Schmidts,Jaime Schmidt,True,False,2010,"Skin Care ,Bath & Body",5,False
+445,SCRATCH,Mitchel Resnick and David Siegel,False,False,2007,,7,False
+446,Scünci,Lewis Hendler and Michael Todd,False,False,1959,"Tools & Brushes ,Hair ,Makeup ,Gifts",150,False
+447,Sebastian,Geri Cusenza and John Sebastian,False,False,1972,"Hair ,Men",44,False
+448,Seche,Bill and Charles Martens,False,False,1991,"Top & Base Coats ,Nail Care ,Nail Polish",5,False
+449,Secret,William Procter and James Gamble,False,False,1956,,4,False
+450,Seed Phytonutrients,Shane Wolf,False,False,2018,,1,True
+451,SEEN,Iris Rubin,True,False,2014,"Shampoo & Conditioner ,Treatment ,Styling Products ,Travel Size",13,False
+452,Sexy Hair,Michael O' Rourke,False,False,1998,"
+Hair, Men, Gifts, Bath & Body",83,False
+453,SheaMoisture,Sofi Tucker and Richelieu Dennis,True,True,1991,"Hair, Bath & Body, Skin Care, Tools & Brushes, Men, Makeup",110,True
+454,Shimmer Lights,Prashant Thawani ,False,True,2010,"Hair ,Gifts",7,False
+455,Shiseido,Arinobu Fukuhara,False,True,1872,"Skin Care, Bath & Body, Tools & Brushes, Makeup, Gifts",32,False
+456,Silk'n,Moshe Mizrahy,False,False,2006,Tools & Brushes,2,False
+457,sk*p,April Hardwick and Mark Veeder,True,False,2020,"Skin Care ,Hair ,Bath & Body ,Men ,Gifts",6,False
+458,Skin Gym,Karina Sulzer,True,False,2017,"Skin Care ,Tools & Brushes",17,False
+459,SKIN&CO,Gabriel Balestra,False,False,2014,"Skin Care ,Gifts",11,False
+460,Skinfood,Yun-Ho Cho,False,True,1957,"Skin Care ,Bath & Body",20,False
+461,SkinKick,Matty Schirle,False,False,2016,"Skin Care ,Gifts",6,False
+462,Skinnydip,James Gold,False,False,2011,,5,False
+463,Skintimate,Jacob Schick,False,False,1993,Tools & Brushes,7,False
+464,Skyn Iceland,Sarah Kugelman,True,False,2003,"Skin Care ,Gifts ,Makeup",29,False
+465,SmartyPits,Stacia Guzzo,True,False,2014,,10,False
+466,Smashbox,Davis Factor and Dean Factor,False,False,1996,"Makeup, Gifts, Skin Care",52,False
+467,SNP,Park Seol-woong,False,True,2009,"Global Skin Care ,Moisturizers ,Cleansers ,Treatment & Serums",6,False
+468,"
+										Soap & Glory
+								",Marcia Kilgore,True,False,2006,"Bath & Body, Skin Care, Makeup, Gifts",49,False
+469,SoCozy,Cozy Friedman,True,False,2002,"Hair ,Bath & Body",16,False
+470,Sorbus,Yong Kim,False,True,2016,,6,False
+471,Specific Beauty,Heather Woolery-Lloyd,True,True,2010,"Skin Care ,Gifts",10,False
+472,Spectrum,Sophie and Hannah Pycroft,True,False,2014,,1,False
+473,Spongeables,Elaine Binder,True,False,2003,"Bath & Body ,Nails ,Skin Care",7,False
+474,Spotlight Oral Care,Lisa Creaven,True,False,2016,"Bath & Body ,Tools & Brushes ,Gifts",15,False
+475,St. Moriz,Melanie Brownlow,True,False,2007,"Bath & Body ,Skin Care",10,False
+476,St. Tropez,Judy Naake,True,False,2007,"Bath & Body ,Gifts",31,True
+477,Stila,Jeanine Lobell,True,False,1994,"Makeup, Gifts",31,False
+478,STMNT Grooming Goods,"Sofie Pok, Julius Arriola, and Miguel Gutierrez",True,True,2020,"Men ,Hair ,Gifts ,Bath & Body",16,False
+479,StriVectin,Joan Sing Malloy,True,True,2002,"Skin Care, Gifts, Bath & Body, Makeup",48,False
+480,Sugarbearhair,Nicole Nightly and Dan Morris,True,False,2015,"Gifts ,Bath & Body ,Skin Care",6,True
+481,Sun + Moon,Amber Ivie,True,False,2014,"Moisturizers ,Treatment & Serums ,Cleansers",6,False
+482,Sun Bum,Tom Rinks,False,False,2009,"Skin Care ,Bath & Body ,Hair ,Gifts ,Makeup",72,False
+483,SUNDAY RILEY,Sunday Riley,True,False,2009,"Skin Care ,Gifts ,Bath & Body ,Hair",25,False
+484,Sunday || Sunday ,Keenan Beasley,False,False,2020,"Hair ,Skin Care ,Bath & Body",8,False
+485,Supergoop!,Holly Thaggard,True,False,2007,"Skin Care ,Bath & Body ,Makeup ,Gifts",20,False
+486,Supersmile,Irwin Smigel and Lucia Smigel,True,False,1987,,5,False
+487,SweetSpot Labs,Shari Creed,True,False,2003,"Bath & Body ,Skin Care ,Gifts",16,True
+488,T3,Gay Warren Gaddis,True,False,1989,"Tools & Brushes ,Hair ,Gifts",27,False
+489,TAN-LUXE,"Brendan Heggarty, Marc Elrick, and Joanna Livingstone",True,False,2015,"Skin Care ,Bath & Body ,Gifts",16,False
+490,Tangle Teezer,Shaun Pulfrey,False,False,2007,"Tools & Brushes ,Hair ,Gifts ,Men",32,False
+491,Tanologist,Lottie Tomlinson,True,False,2018,"Skin Care ,Bath & Body ,Gifts",11,True
+492,Tartan + Twine,Suzanne G,True,False,2014,"Makeup ,Gifts ,Tools & Brushes ,Skin Care ,Hair ,Bath & Body",54,False
+493,Tarte,Maureen Kelly,True,False,2000,"Makeup, Skin Care, Gifts, Tools & Brushes, Bath & Body, Hair",118,False
+494,Teami Blends,Adi Arezzini,True,False,2013,"Skin Care ,Bath & Body",9,False
+495,Terra Beauty Bars,"Fernanda, Luana, Jasmine, and Angela",True,True,2016,"Skin Care ,Bath & Body ,Gifts ,Nails ,Hair",14,True
+496,tgin,Chris-Tia Donaldson,True,True,2011,"Hair ,Tools & Brushes ,Bath & Body ,Skin Care",27,False
+497,Thayers,Henry Thayer,False,False,1847,"Cleansers ,Moisturizers ,Travel Size",9,False
+498,The Crème Shop,Theresa and Lawrence Kim,True,True,1988,"Global Skin Care ,Treatment & Serums ,Moisturizers ,Eye Treatments",20,False
+499,The Fox Tan,Olivia Zorzut and Kelly Euripidou,True,False,2015,"Skin Care ,Bath & Body",10,False
+500,The Good Patch,"Betsy Scanlan, Kelly Brock, and David Nicholson",True,False,2018,Sleep Essentials,12,False
+501,The Hair Edit,James Simon,False,False,2019,"Tools & Brushes ,Hair",43,False
+502,The Handmade Soap Co.,Donagh Quigley,False,False,2009,"Bath & Body ,Gifts ,Fragrance",29,False
+503,The Mane Choice,Courtney Adeleye,True,True,2013,"Hair ,Skin Care ,Bath & Body",20,False
+504,The Ordinary,Jo Ingram,True,False,2012,"Skin Care , Makeup, Hair, Gifts",51,True
+505,The Original MakeUp Eraser,Elexsis McCarthy,True,False,2013,"Skin Care ,Makeup ,Gifts",7,False
+506,THE ROUTE,Evan Walker,False,False,2018,"Skin Care ,Makeup ,Gifts",11,True
+507,Thick Head,Jennifer Jackson,True,True,2015,"Men ,Hair ,Skin Care ,Gifts ,Bath & Body",5,False
+508,this works,Kathy Phillips,True,False,2003,"Bath & Body ,Gifts",6,False
+509,Tiffany & Co.,Charles Lewis Tiffany and John B. Young,False,False,1837,"Fragrance ,Gifts ,Men",6,False
+510,Tigi,Anthony Mascolo,False,False,1986,"Treatment, Styling Products",4,False
+511,TOM FORD,Tom Ford,False,False,2005,"Fragrance ,Men ,Gifts",21,False
+512,TONYMOLY,Haedong Bae,False,True,2006,"Skin Care, Gifts, Bath & Body",70,False
+513,Too Faced,Jerrod Blandino and Jeremy Johnson,False,False,1998,"Makeup, Gifts, Skin Care, Fragrance",55,False
+514,Toppik,Mark H. Kress,False,False,1981,"Hair ,Men",13,True
+515,Tory Burch,Tory Burch,True,False,2004,"Fragrance ,Gifts",6,False
+516,Touchland,Andrea Lisbona,True,False,2010,,3,False
+517,Tree Hut,Julia and Joh Olson,True,True,2002,"Bath & Body ,Skin Care ,Gifts",44,False
+518,Tresemme,Edna L. Emmé,True,False,1948,"Styling Products ,Shampoo & Conditioner ,Treatment",16,False
+519,Treslúce Beauty,Becky G,True,False,2021,"Makeup ,Tools & Brushes",11,False
+520,Truly,Erol Toker,False,False,2016,"Skin Care ,Bath & Body ,Hair ,Gifts ,Men ,Makeup ,Fragrance",99,True
+521,Tula,Roshini Raj,True,True,2013,"Skin Care ,Gifts ,Makeup ,Bath & Body",57,False
+522,Turbie Twist,Angela Carr and Christina Cummings,True,False,2006,"Bath & Body ,Gifts",4,False
+523,Tweezerman,Dal LaMagna,False,False,1980,"Tools & Brushes ,Makeup ,Nails ,Bath & Body ,Gifts ,Men ,Skin Care",51,False
+524,Tyme,Jacynda Smith,True,False,2020,,1,False
+525,ULTA,Terry Hanson and Dick George,True,False,1990,"ULTA Collection ,Bath & Body ,Makeup ,Skin Care ,Tools & Brushes ,Gifts ,Fragrance ,Nails ,Hair",513,False
+526,Undone Beauty,Ann Somma,True,False,2018,"Makeup ,Skin Care ,Gifts ,Tools & Brushes ,Bath & Body",29,True
+527,Urban Decay Cosmetics,"Pat Holmes, Sandy Lerner, Wende Zomnir and David Soward",True,False,1996,"Makeup, Gifts, Tools & Brushes, Skin Care",58,False
+528,Urban Hydration,Psyche Terry,True,True,2010,"Skin Care ,Bath & Body",18,True
+529,Urban Skin Rx Pro Strength,Rachel Roff,True,False,2010,"Treatment & Serums ,Moisturizers ,Cleansers",6,False
+530,Urban Veda,Sheilesh Shah,False,True,2013,"Skin Care ,Gifts",20,True
+531,Ursa Major,Oliver Sweatman and Emily Doyle,True,False,1869,"Men ,Skin Care ,Bath & Body",5,True
+532,Valentino,Valentino Garavani,False,False,1960,"Lips ,Face",3,False
+533,Velour Lashes,Mabel Lee,True,True,2011,"Makeup ,Tools & Brushes ,Skin Care",22,False
+534,Verb,Claire Moses,True,False,2009,"Hair ,Gifts ,Bath & Body ,Men",38,False
+535,Vichy,Prosper Haller,False,False,1931,"Skin Care ,Bath & Body ,Makeup",34,False
+536,Viktor&Rolf,Viktor Horsting and Rolf Snoeren,False,False,1993,"Fragrance ,Men ,Gifts",18,False
+537,Virtue,Melisse Shaban,True,False,2013,"Hair ,Gifts",41,False
+538,VitaminSea.beauty,Kelly Roth,True,False,2016,"Global Skin Care ,Treatment & Serums ,Cleansers",11,False
+539,Viviscal,James Murphy,False,False,1990,"Hair ,Skin Care ,Bath & Body ,Men",6,True
+540,Voir,Nia Schindle and Andy Hoang,True,True,2017,"Shampoo & Conditioner ,Treatment ,Styling Products",10,True
+541,Volt,Jaro Turek,True,False,2001,,1,False
+542,Wahl,Leo J. Wahl,False,False,1919,"Men ,Tools & Brushes ,Bath & Body",4,False
+543,Wakse,Shayan Sadrolashrafi and Andrew Glass,False,False,2018,"Bath & Body ,Skin Care",22,False
+544,We Are Paradoxx,Yolanda Cooper,True,False,2019,"Hair ,Bath & Body ,Skin Care ,Gifts",13,True
+545,Well People,Shirley Pinkson,True,False,2009,"Makeup ,Skin Care ,Tools & Brushes ,Gifts",27,False
+546,Wella,Franz Ströher,False,False,1880,"Shampoo & Conditioner ,Styling Products ,Treatment ,Travel Size",63,False
+547,Wet n Wild,George Millay,False,False,1984,"Makeup ,Tools & Brushes ,Skin Care ,Gifts",85,False
+548,Wigo,Ben Kaplan,False,False,2014,,13,False
+549,WLDKAT,Amy Zunzunegui,True,False,2019,"Skin Care ,Gifts ,Bath & Body",14,True
+550,Wunder2,Michael Malinsky,False,False,2015,"Makeup ,Skin Care",5,False
+551,YUNI,Emmanuel Rey,False,False,2015,"Face Mists & Essences ,Face Oils",2,True
+552,Yves Saint Laurent,Yves Saint Laurent and Pierre Bergé,False,False,1961,"Fragrance ,Men ,Gifts",25,False
+553,ZitSticka,Daniel Kaplan and Robbie Miller,False,False,2017,"Skin Care ,Bath & Body",10,True
+554,Zoya,Saad Malik,True,True,1986,"Top & Base Coats ,Nail Care ,Nail Polish",6,False
+555,18.21 Man Made,"Angel del Solar, Aston LaFon and David del Solar",False,False,2013,"Hair ,Body Care ,Shaving ,Skin Care ,Travel Size",14,False
